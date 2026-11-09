@@ -1,0 +1,1 @@
+The current hero artwork uses emoji illustration so the app runs immediately. Replace it with your selected dog-and-cat image when available.
